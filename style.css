@@ -1,0 +1,26 @@
+body
+
+{
+
+	background-color: black;
+}
+
+h1
+{
+	color:red ; //couleur du texte h1 en rouge
+}
+
+p
+{
+
+	color: black ;
+}
+
+#carte
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center; 
+}
